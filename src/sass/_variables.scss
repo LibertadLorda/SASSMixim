@@ -3,3 +3,8 @@ $titleColor: crimson;
 $TextColorOne: darkorchid;
 $TextColortwo: green;
 
+@mixin background{
+    background-color:aqua;
+    padding-top: 50px;
+
+}
